@@ -14,6 +14,6 @@
 </style>
 </head>
 <body>
-<div class="logo">Very Hip Vodka</div>
+<div class="logo">Vodka</div>
 </body>
 </html>
